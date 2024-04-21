@@ -1,5 +1,5 @@
 1. Install dependecies:
-Install JWTBearer with version 6.0.x, because the projects is running on .NET 6.0 \ 
+Install JWTBearer with version 6.0.x, because the project is running on .NET 6.0 \ 
 `Install-Package Microsoft.AspNetCore.Authentication.JwtBearer` \
 Install the Tokens \ 
 `Install-Package Microsoft.IdentityModel.Tokens` \
