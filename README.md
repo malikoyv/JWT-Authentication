@@ -58,5 +58,5 @@ This project is licensed under the GNU License.
 #
 **Author:** Yehor Malikov \
 **Email:** miggabit@gmail.com \
-**LinkedIn:** [Yehor Malikov](https://www.linkedin.com/in/yehormalikov/) \
+**LinkedIn:** [Yehor Malikov](https://www.linkedin.com/in/yehormalikov/)
 #
