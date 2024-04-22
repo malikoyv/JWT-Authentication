@@ -7,3 +7,5 @@ Install the JWT Tokens \
 `Install-Package System.IdentityModel.Tokens.Jwt` \
 Install Swagger Interface to add GUI for testing endpoints \
 `Install-Package Swashbuckle.AspNetCore`
+Install BCrypt for passwords hashing
+`Install-Package BCrypt.Net-Core`
