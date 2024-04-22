@@ -8,9 +8,9 @@ This repository provides a comprehensive implementation of JWT (JSON Web Token) 
 - **Swagger Integration:** Integration of Swagger UI for easy testing and documentation of API endpoints.
 
 ## Installation
-1. Clone the Repository: Clone this repository to your local machine using Git. \
+1. **Clone the Repository:** Clone this repository to your local machine using Git. \
 `git clone https://github.com/your_username/repo_name.git`
-2. Install Dependencies: Install the required dependencies using NuGet Package Manager.
+2. **Install Dependencies:** Install the required dependencies using NuGet Package Manager.
 ```
 Install-Package Microsoft.AspNetCore.Authentication.JwtBearer -Version 6.0.x
 Install-Package Microsoft.IdentityModel.Tokens
@@ -18,8 +18,8 @@ Install-Package System.IdentityModel.Tokens.Jwt
 Install-Package Swashbuckle.AspNetCore
 Install-Package BCrypt.Net-Core
 ```
-3. Configure JWT Settings: Customize JWT issuer, audience, and key settings in the `appsettings.json` file.
-4. Build and Run: Build and run the project using Visual Studio or the .NET CLI.
+3. **Configure JWT Settings:** Customize JWT issuer, audience, and key settings in the `appsettings.json` file.
+4. **Build and Run:** Build and run the project using Visual Studio or the .NET CLI.
 ```
 dotnet build
 dotnet run
