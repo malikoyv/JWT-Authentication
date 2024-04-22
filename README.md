@@ -8,7 +8,7 @@ This repository provides a comprehensive implementation of JWT (JSON Web Token) 
 - **Swagger Integration:** Integration of Swagger UI for easy testing and documentation of API endpoints.
 
 ## Installation
-1. Clone the Repository: Clone this repository to your local machine using Git.
+1. Clone the Repository: Clone this repository to your local machine using Git. \
 `git clone https://github.com/your_username/repo_name.git`
 2. Install Dependencies: Install the required dependencies using NuGet Package Manager.
 ```
