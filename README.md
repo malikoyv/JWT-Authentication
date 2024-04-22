@@ -39,13 +39,6 @@ Customize the application settings, JWT configuration, and other parameters in t
     "Issuer": "YourIssuer",
     "Audience": "YourAudience",
     "Key": "YourSecretKey"
-  },
-  "Logging": {
-    "LogLevel": {
-      "Default": "Information",
-      "Microsoft": "Warning",
-      "Microsoft.Hosting.Lifetime": "Information"
-    }
   }
 }
 ```
