@@ -6,8 +6,10 @@ namespace JWT_Authentication.Repositories
     {
         public static List<User> users = new()
         {
-            new("yehor", "123", "miggabit@gmail.com", "Yehor", "Malikov", "https://facebook.com/yehor", "admin"),
-            new("tomek", "haslo", "tomek@tomek.com", "Tomek", "Tomaszewicz", "https://facebook.com/yehor", "user")
+            new("yehor", "$2b$10$9l8bdt6m8b1l1xzqVUC4Hefd3vL0OFd8FnZILkj249xsFmE9jjCBu", "miggabit@gmail.com", "Yehor", "Malikov", "https://facebook.com/yehor", "admin"),
+            new("tomek", "$2b$10$9l8bdt6m8b1l1xzqVUC4Hefd3vL0OFd8FnZILkj249xsFmE9jjCBu", "tomek@tomek.com", "Tomek", "Tomaszewicz", "https://facebook.com/yehor", "user")
         };
+
+        // hashed password is "string"
     }
 }

@@ -1,14 +1,15 @@
 ﻿using JWT_Authentication.Models;
 using JWT_Authentication.Repositories;
-using Microsoft.AspNetCore.SignalR;
 
 namespace JWT_Authentication.Serives
 {
     public class BookService : IBookService
     {
+        // Endpoints' services of books
         public Book Create(Book newBook)
         {
             newBook.Id = BookRepository.books.Count() + 1;
+
             BookRepository.books.Add(newBook);
             return newBook;
         }
