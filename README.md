@@ -47,7 +47,7 @@ Customize the application settings, JWT configuration, and other parameters in t
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the GNU License.
+This project is licensed under the GNU Public License.
 #
 **Author:** Yehor Malikov \
 **Email:** miggabit@gmail.com \
